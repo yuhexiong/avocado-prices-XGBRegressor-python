@@ -1,6 +1,6 @@
 # Avocado Prices XGBRegressor
 
-### DataSet From [Kaggle - Avocado Prices](https://www.kaggle.com/datasets/uciml/iris)
+### DataSet From [Kaggle - Avocado Prices](https://www.kaggle.com/datasets/neuromusic/avocado-prices)
 
 ## Overview
 
